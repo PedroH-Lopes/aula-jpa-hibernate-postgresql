@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="#tech">Tecnologias</a> •
- <a href="#started">Execução</a> •
+ <a href="#started">Execução</a> 
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 Um sistema que cria três cadastros de pessoas em um banco de dados Postgres utilizando, JPA(Java Persistence API) com o framework Hibernate.
 
-<h2 id="technologies">💻 Tecnologias</h2>
+<h2 id="tech">💻 Tecnologias</h2>
 
 <!-- ALTERAR -->
 - Java 17
