@@ -62,5 +62,6 @@ Como iniciar seu projeto<!-- ALTERAR -->
 <!-- ALTERAR -->
 ```bash
 cd jpa-hibernate-postgresql
+./mvnw compile
 ./mvnw exec:java
 ```
