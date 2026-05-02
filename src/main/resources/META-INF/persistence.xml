@@ -8,16 +8,16 @@
     <persistence-unit name="exemplo-jpa" transaction-type="RESOURCE_LOCAL">
         <properties>
             <property name="jakarta.persistence.jdbc.url"
-                      value="jdbc:postgresql://localhost:5432/aulajpa"/>
+                      value="jdbc:postgresql://localhost:5432/SEU_bancoDeDados"/>
 
             <property name="jakarta.persistence.jdbc.driver"
                       value="org.postgresql.Driver"/>
 
             <property name="jakarta.persistence.jdbc.user"
-                      value="postgres"/>
+                      value="SEU_usuario"/>
 
             <property name="jakarta.persistence.jdbc.password"
-                      value="P30352903"/>
+                      value="SEU_password"/>
 
             <property name="hibernate.hbm2ddl.auto" value="update"/>
 
